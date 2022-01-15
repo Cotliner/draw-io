@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T16:51:46.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="viJTF-6NMXDANOuKGOof" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T16:58:34.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="K_a6eGETDDQrmQp51N6f" version="16.2.7" type="github">
   <diagram id="mPFSQiah_NU10TlbEY0m" name="Page-1">
     <mxGraphModel dx="2368" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=5;" edge="1" parent="1" source="sigG_fs_RIrKZey_LHQE-3" target="XU_rd4bSlqqLAfE51_sd-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="500" />
+              <mxPoint x="480" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="sigG_fs_RIrKZey_LHQE-3" target="XU_rd4bSlqqLAfE51_sd-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;strokeWidth=5;" edge="1" parent="1" source="XU_rd4bSlqqLAfE51_sd-25" target="sigG_fs_RIrKZey_LHQE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="490" />
+              <mxPoint x="370" y="490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sigG_fs_RIrKZey_LHQE-3" value="BACKEND APP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="300" y="520" width="240" height="120" as="geometry" />
@@ -29,13 +42,13 @@
           <mxGeometry x="120" y="550" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-2" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;gradientColor=none;fontStyle=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="80" height="60" as="geometry" />
+          <mxGeometry x="440" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XU_rd4bSlqqLAfE51_sd-4" value="USER&lt;br&gt;JEAN" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-4" value="USER&lt;br&gt;JEAN" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-5" value="NOTIFY WITH CONTINUOUS FLOW" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=15;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="460" width="320" height="20" as="geometry" />
+          <mxGeometry x="490" y="460" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-6" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;gradientColor=none;fontStyle=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="380" y="750" width="80" height="60" as="geometry" />
@@ -60,6 +73,24 @@
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-15" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-310" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-17" value="JOHN ACCESS TO GET EVENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="290" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-19" value="JOHN ACCESS TO GET EVENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="335" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-22" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="945" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-23" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="945" y="335" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-25" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;rounded=0;fontStyle=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="350" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-27" value="1. ACCESS TO EVENT RESOURCE" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;fontSize=15;fillColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
