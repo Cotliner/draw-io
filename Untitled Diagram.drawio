@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T17:12:52.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Aax7SsySjThAYzV0mw-9" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T17:14:19.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Snm2WZ3kfgSjPp5ITwne" version="16.2.7" type="github">
   <diagram id="mPFSQiah_NU10TlbEY0m" name="Page-1">
     <mxGraphModel dx="2368" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,8 +62,8 @@
         <mxCell id="XU_rd4bSlqqLAfE51_sd-15" value="" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-310" y="560" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XU_rd4bSlqqLAfE51_sd-17" value="JOHN ACCESS TO GET EVENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;sketch=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="220" width="230" height="20" as="geometry" />
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-17" value="JOHN ACCESS TO GET EVENT RESOURCE" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="220" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-19" value="OTHER USER UPDATE DATA" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="240" width="220" height="20" as="geometry" />
