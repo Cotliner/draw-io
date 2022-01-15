@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-15T17:12:12.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OsLLrt_qnkzPorIS_Y4t" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-15T17:12:52.129Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Aax7SsySjThAYzV0mw-9" version="16.2.7" type="github">
   <diagram id="mPFSQiah_NU10TlbEY0m" name="Page-1">
     <mxGraphModel dx="2368" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="sigG_fs_RIrKZey_LHQE-13" value="2. DATA UPDATE" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=15;fillColor=default;gradientColor=none;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="550" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XU_rd4bSlqqLAfE51_sd-4" value="USER&lt;br&gt;JEAN" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1;sketch=1;" vertex="1" parent="1">
+        <mxCell id="XU_rd4bSlqqLAfE51_sd-4" value="USER&lt;br&gt;JOHN" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#eeeeee;strokeColor=#36393d;fontStyle=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XU_rd4bSlqqLAfE51_sd-5" value="4. NOTIFY WITH CONTINUOUS FLOW" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=15;fillColor=default;gradientColor=none;sketch=1;" vertex="1" parent="1">
